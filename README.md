@@ -1,4 +1,4 @@
-**## Faster R-CNN Object Detection on Open Images**
+**# Faster R-CNN Object Detection on Open Images**
 
 This repository contains a PyTorch implementation of Faster R-CNN trained and evaluated on the Open Images Dataset.
 The project was originally developed in Google Colab and later refactored into a modular, reusable, and GitHub-friendly structure.
