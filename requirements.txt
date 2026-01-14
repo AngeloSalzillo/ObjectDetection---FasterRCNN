@@ -1,0 +1,7 @@
+torch
+torchvision
+torchmetrics
+pandas
+Pillow
+matplotlib
+tqdm
