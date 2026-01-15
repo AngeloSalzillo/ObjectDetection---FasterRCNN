@@ -12,6 +12,7 @@ The code supports:
 - Inference and visualization on custom images
 - Checkpoint saving and loading
 
+---
 
 ## **Requirements**
 
@@ -25,6 +26,7 @@ Main dependencies:
 - matplotlib
 - tqdm
 
+---
 
 ## **Dataset Preparation**
 
@@ -41,7 +43,7 @@ Extracted image folders:
 
 Since the entire train dataset provided by Open Images is huge, it was split in several chunks (from train_0 to train_f).
 
-
+---
 
 ## **Training**
 
@@ -63,6 +65,7 @@ Checkpoint includes:
 - Epoch number
 - Validation metrics
 
+---
 
 ## **Model Architecture**
 
